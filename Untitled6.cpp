@@ -3,13 +3,21 @@
 using namespace std;
 
 int main (){
-	int nilai=37;
+	//contoh 1
+	cout<<"Masukkan Nama : "<<endl;
+	//saran untuk boros boros line :v
+	cout<<"Masukkan Nama : ";
+	cout<<endl;
 	
-	cout<<nilai++<<endl;
-	cout<<nilai--<<endl;
-	cout<<++nilai<<endl;
-	cout<<nilai--<<endl;
-	cout<<--nilai<<endl;
-
-	return 0;
+	//contoh 2 
+	if (kondisi){
+		//statement
+	}
+	
+	//saran untuk boros boros line :v
+	if (kondisi)
+	{
+		
+	}
+	
 }
