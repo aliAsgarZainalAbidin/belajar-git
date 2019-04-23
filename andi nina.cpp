@@ -3,8 +3,5 @@
 using namespace std;
 
 int main (){
-	float hasil;
-	int D;
-	const float phi = 3.14;
-	cout << "masukkan D : ";	
+	cout<<"Edit laskdjalksdjalskdj"<<endl;
 }
